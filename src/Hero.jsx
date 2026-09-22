@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import { ReactTyped } from "react-typed";
 import developerPic from "./assets/bg.png.png";
 
+
 const Hero = () => {
   return (
     <div>
@@ -68,7 +69,7 @@ const Hero = () => {
       </div>
       {/* buttons */}
       <div className="flex ml-23.5">
-          <a href="/public/Prem_Bhandari_Resume.pdf" download="Prem_Bhandari_Resume" 
+          <a href="/Bhandari%20Premkumar%20Frontend%20Resume.pdf" download="Bhandari Premkumar Frontend Resume.pdf" 
           className="flex justify-center p-4 w-95 m-6 shadow-xl/30 shadow-amber-500 font-bold bg-radial from-orange-400 from-40% to-orange-700 text-amber-100 rounded-xl cursor-pointer hover:bg-orange-600">
           Download CV
         </a>

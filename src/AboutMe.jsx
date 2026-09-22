@@ -40,8 +40,8 @@ const AboutMe = () => {
                 and learning with new technologies .
               </p>
               <a
-                href="/public/Prem_Bhandari_Resume.pdf"
-                download="Prem_Bhandari_Resume"
+                href="/Bhandari%20Premkumar%20Frontend%20Resume.pdf"
+                download="Bhandari Premkumar Frontend Resume.pdf"
                 className=" rounded-xl w-40 text-center border-2 p-1.5 mt-2 border-gray-400 cursor-pointer"
               >
                 Download CV

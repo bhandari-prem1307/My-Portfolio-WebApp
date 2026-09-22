@@ -43,7 +43,7 @@ const Projects = () => {
 
             {/* project link */}
             <div className='ml-4 mt-2'>
-                <a href="https://github.com/bhandariprem3636-lang/My-Portfolio-WebApp" target='_blank' className='flex  gap-1 hover:text-blue-600 underline decoration-1'>
+                <a href="https://github.com/bhandari-prem1307/My-Portfolio-WebApp" target='_blank' className='flex  gap-1 hover:text-blue-600 underline decoration-1'>
                     <FaGithub className='mt-1.5'/>
                 <p>Check in GitHub</p>
                 </a>
@@ -72,7 +72,7 @@ const Projects = () => {
 
             {/* project link */}
             <div className='ml-4 mt-2'>
-                <a href="https://github.com/bhandariprem3636-lang/ToDo-App" target='_blank' className='flex  gap-1 hover:text-blue-600 underline decoration-1'>
+                <a href="https://github.com/bhandari-prem1307/ToDo-App" target='_blank' className='flex  gap-1 hover:text-blue-600 underline decoration-1'>
                     <FaGithub className='mt-1.5'/>
                 <p>Check in GitHub</p>
                 </a>
@@ -101,7 +101,7 @@ const Projects = () => {
 
             {/* project link */}
             <div className='ml-4 mt-2'>
-                <a href="https://github.com/bhandariprem3636-lang/Calculator-App" target='_blank' className='flex  gap-1 hover:text-blue-600 underline decoration-1'>
+                <a href="https://github.com/bhandari-prem1307/Calculator-App" target='_blank' className='flex  gap-1 hover:text-blue-600 underline decoration-1'>
                     <FaGithub className='mt-1.5'/>
                 <p>Check in GitHub</p>
                 </a>

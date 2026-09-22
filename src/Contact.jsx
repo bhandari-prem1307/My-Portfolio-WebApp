@@ -66,7 +66,7 @@ const ContactUs = () => {
                     </div>
 
                     <div className="flex justify-between m-2">
-                        <div className="p-2 shadow-xl/20 text-black bg-gray-300 rounded-xl hover: transform transition-all duration-500 ease-[cubic-bezier(0.34,1.56,0.64,1)] hover:scale-[1.5]"><a href="https://github.com/bhandariprem3636-lang"><FaGithub /></a></div>
+                        <div className="p-2 shadow-xl/20 text-black bg-gray-300 rounded-xl hover: transform transition-all duration-500 ease-[cubic-bezier(0.34,1.56,0.64,1)] hover:scale-[1.5]"><a href="https://github.com/bhandari-prem1307"><FaGithub /></a></div>
                         <div className="p-2 shadow-xl/20 text-blue-800 bg-sky-200 rounded-xl hover: transform transition-all duration-500 ease-[cubic-bezier(0.34,1.56,0.64,1)] hover:scale-[1.5]"><a href="https://www.linkedin.com/in/bhandari-premkumar-6b46a135a/"><FaLinkedin /></a></div>
                         <div className="p-2 shadow-xl/20 text-orange-700 bg-orange-300 rounded-xl hover: transform transition-all duration-500 ease-[cubic-bezier(0.34,1.56,0.64,1)] hover:scale-[1.5]"><a href="https://www.instagram.com/prem_official011/"><FaInstagram /></a></div>
                         <div className="p-2 shadow-xl/20 text-gray-800 bg-gray-300 rounded-xl hover: transform transition-all duration-500 ease-[cubic-bezier(0.34,1.56,0.64,1)] hover:scale-[1.5]"><a href="https://mail.google.com/"><IoIosMail /></a></div>
